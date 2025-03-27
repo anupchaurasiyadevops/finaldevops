@@ -1,5 +1,5 @@
 <script type="text/javascript">
-
+kebjfkhfadkad vuaeafgi
 $(document).ready(function() {
 // Generate a simple captcha
    
